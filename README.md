@@ -1,2 +1,11 @@
 # Face-Recognition-Demo
-Simple scripts to take pictures and automatically identify users in real time.
+[LICENSE](LICENSE)
+
+
+
+Install provided enviroment first.
+
+Run picture.py in one terminal to take pictures, and detect.py in another to run detection. People saved will be automatically detected in camera.
+
+
+**Requires 2 cameras.**
